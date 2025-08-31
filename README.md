@@ -17,3 +17,5 @@
 <!-- ![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAYYAB-BUKC&show_icons=true&theme=radical&include_all_commits=true&count_private=true) -->
 ![](https://nirzak-streak-stats.vercel.app/?user=TAYYAB-BUKC&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-BUKC&layout=compact&theme=radical&hide=c%2B%2B)
+
+![](https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
