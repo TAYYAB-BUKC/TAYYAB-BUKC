@@ -1,11 +1,32 @@
-# 👋 Hi, I am Tayyab Arsalan
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" /> I'm Tayyab Arsalan</h1>
+
 💻 **Senior Software Engineer**  
 ⭐️ **“Born to express, not to impress”** <br>
 🌍 Based in Karachi, Pakistan  
 🎯 **C# Programmer** with **6 years of experience** in **.NET technologies** including **ASP.NET Core, MVC, and REST APIs**. Currently expanding expertise in **Vue 3** and **Azure Cloud** with a strong passion for building scalable web applications and exploring modern technologies.
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-arsalan-5a39a91b8/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:write2tayyabarsalan+github@gmail.com) 
+## 🔗 Connect with Me
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tayyab-arsalan-5a39a91b8/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/9203409292923" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:write2tayyabarsalan+github@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1JkjJm2VY6jRvNvIoVuIoIjdhoQwiD7rb/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+</p>
 
 ## 🔧 Tech Stack  
 - **Languages:** C#, SQL  
@@ -40,8 +61,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 
-<!-- ![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAYYAB-BUKC&show_icons=true&theme=radical&include_all_commits=true&count_private=true) -->
+<!-- ![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAYYAB-BUKC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) -->
 ![](https://nirzak-streak-stats.vercel.app/?user=TAYYAB-BUKC&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-BUKC&layout=compact&theme=radical&hide=c%2B%2B)
-
-![](https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
