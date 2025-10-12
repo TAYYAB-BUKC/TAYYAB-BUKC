@@ -61,7 +61,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 
+
+## 📊 GitHub Stats & Trophies
 <!-- ![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAYYAB-BUKC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) -->
-![](https://nirzak-streak-stats.vercel.app/?user=TAYYAB-BUKC&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-BUKC&layout=compact&theme=radical&hide=c%2B%2B)
-![](https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyab-bukc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Tayyab's GitHub Stats" width="49%" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TAYYAB-BUKC&theme=dark&hide_border=false&cache_seconds=86400" alt="Tayyab's Streak Stats" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-BUKC&layout=compact&theme=radical&hide=c%2B%2B&cache_seconds=86400" alt="Tayyab's Top Langs" width="49%" />
+</p>
+
+![Tayyab's Trophies](https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=algolia&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400))
