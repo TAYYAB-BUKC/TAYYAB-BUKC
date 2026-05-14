@@ -6,25 +6,25 @@
 🎯 **C# Programmer** with **6 years of experience** in **.NET technologies** including **ASP.NET Core, MVC, and REST APIs**. Currently expanding expertise in **Vue 3** and **Azure Cloud** with a strong passion for building scalable web applications and exploring modern technologies.
 
 ## 🔗 Connect with Me
+
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tayyab-arsalan-5a39a91b8/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
+  <a href="https://www.linkedin.com/in/tayyab-arsalan-5a39a91b8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
 
-  <!-- WhatsApp -->
-  <a href="https://wa.me/9203409292923" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/>
+  <a href="https://wa.me/9203409292923" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
 
-  <!-- Gmail -->
-  <a href="mailto:write2tayyabarsalan+github@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  <a href="mailto:write2tayyabarsalan+github@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" />
   </a>
+  &nbsp;&nbsp;
 
-  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1JkjJm2VY6jRvNvIoVuIoIjdhoQwiD7rb/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume" width="40" height="40" style="margin: 0 8px;"/>
+  <a href="https://drive.google.com/file/d/1JkjJm2VY6jRvNvIoVuIoIjdhoQwiD7rb/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/resume.png" width="40" />
   </a>
 </p>
 
