@@ -3,7 +3,7 @@
 💻 **Senior Software Engineer**  
 ⭐️ **“Born to express, not to impress”** <br>
 🌍 Based in Karachi, Pakistan  
-🎯 **C# Programmer** with **6 years of experience** in **.NET technologies** including **ASP.NET Core, MVC, and REST APIs**. Currently expanding expertise in **Vue 3** and **Azure Cloud** with a strong passion for building scalable web applications and exploring modern technologies.
+🎯 **C# Programmer** with **6.5 years of experience** in **.NET technologies** including **ASP.NET Core, MVC, and REST APIs**. Currently expanding expertise in **Vue 3** and **Azure Cloud** with a strong passion for building scalable web applications and exploring modern technologies.
 
 ## 🔗 Connect with Me
 
