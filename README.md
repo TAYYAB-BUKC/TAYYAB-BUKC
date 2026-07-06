@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" /> I'm Tayyab Arsalan</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" /> I am Tayyab Arsalan</h1>
 
 💻 **Senior Software Engineer**  
 ⭐️ **“Born to express, not to impress”** <br>
@@ -42,9 +42,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <!-- ![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAYYAB-BUKC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyab-bukc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Tayyab's GitHub Stats" width="49%" />
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tayyab-bukc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Tayyab's GitHub Stats" width="49%" /> -->
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tayyab-bukc?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=TAYYAB-BUKC&theme=dark&hide_border=false&cache_seconds=86400" alt="Tayyab's Streak Stats" width="49%" />
