@@ -52,9 +52,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tayyab-bukc&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-BUKC&layout=compact&theme=radical&hide=c%2B%2B&cache_seconds=86400" alt="Tayyab's Top Langs" width="49%" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tayyab's Top Langs" width="49%" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-bukc&theme=react-dark&radius=10&days=45" alt="Tayyab's Activity Graph" />
 </p>
