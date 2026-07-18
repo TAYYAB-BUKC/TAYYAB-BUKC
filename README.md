@@ -49,8 +49,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=TAYYAB-BUKC&theme=dark&hide_border=false&cache_seconds=86400" alt="Tayyab's Streak Stats" width="49%" />
 </p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tayyab-bukc&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tayyab-bukc&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=tayyab-bukc&theme=radical)](https://git.io/streak-stats)
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-BUKC&layout=compact&theme=radical&hide=c%2B%2B&cache_seconds=86400" alt="Tayyab's Top Langs" width="49%" />
