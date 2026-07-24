@@ -62,6 +62,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tayyab's Top Langs" width="49%" />
 </p>
 
+<!--<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-bukc&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Tayyab's Top Langs" width="49%" />
+</p>-->
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-bukc&theme=react-dark&radius=10&days=45" alt="Tayyab's Activity Graph" />
 </p>
