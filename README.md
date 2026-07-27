@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tayyab-bukc&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tayyab's Top Langs" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tayyab-bukc&layout=compact&theme=dark" alt="Tayyab's Top Langs" width="49%" />
 </p>
 
 <!--<p align="center">
